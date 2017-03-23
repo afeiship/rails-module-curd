@@ -1,9 +1,14 @@
 # rails-module-curd
 > rails module for curd;
 
-## resouces:
+## resources:
 + rails generate scaffold Post title:string content:text  
 
+## Step by step
++ Generate resources:
+```shell
+rails g scaffold Post title:string content:text
+```
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
