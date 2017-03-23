@@ -1,4 +1,4 @@
-# README
+# rails-module-curd
 > rails module for curd;
 
 ## resouces:
